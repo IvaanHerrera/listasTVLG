@@ -1,0 +1,796 @@
+	
+
+    #EXTM3U
+    #EXTINF:-1,***HasBahCa IPTV***AMERIKA-AMERICA-LATINO***LONG BUFFERS
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,A ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,AMERICA TV HD (Perú)
+    http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+    #EXTINF:-1,Antena Latina Rep. Dominicana
+    http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+    #EXTINF:-1,ARG:America TV
+    http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+    #EXTINF:-1,ARG:America TV HD 720
+    http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+    #EXTINF:-1,ARG TV PUBLICA SD
+    http://live-edge01.telecentro.net.ar/live/tvphd-180/playlist.m3u8
+    #EXTINF:-1,ARG TV PUBLICA HD
+    http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8
+    #EXTINF:-1,ARG AMERICA TV SD
+    http://live-edge01.telecentro.net.ar/live/amrchd-180/playlist.m3u8
+    #EXTINF:-1,ARG AMERICA TV HD
+    http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+    #EXTINF:-1,ARG TELEFE SD
+    http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
+    #EXTINF:-1,ARG TELEFE HD
+    http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
+    #EXTINF:-1,ARG EL TRECE SD
+    http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8
+    #EXTINF:-1,ARG EL TRECE HD
+    http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
+    #EXTINF:-1,ARG CANAL 26 SD
+    http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8
+    #EXTINF:-1,ARG CANAL 26 HD
+    http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+    #EXTINF:-1,ARG:C5N
+    rtmp://c5n.stweb.tv:1935/c5n/live_media
+    #EXTINF:-1,ARG:C5N Argentina
+    rtmp://c5n.stweb.tv:1935/c5n/live
+    #EXTINF:-1,ARG:Canal 12 Zárate
+    http://190.151.144.22:8083/canallocal.flv
+    #EXTINF:-1,ARG:CANAL 13 ARGENITNA rtsp
+    rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+    #EXTINF:-1,ARG:Canal 2 Misiones
+    http://190.57.237.214/live/canal.m3u8
+    #EXTINF:-1,ARG:Canal 29 Ensenada
+    rtmp://panel.dattalive.com/8008/8008
+    #EXTINF:-1,ARG:Canal 3 Trelew
+    rtmp://198.49.76.226:1935/inovasd/inovasd
+    #EXTINF:-1,ARG:Canal 4 Esquel
+    rtmp://streamlky.alsolnet.com/canal4/live
+    #EXTINF:-1,ARG:Canal 4 HD 720 Jujuy
+    rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+    #EXTINF:-1,ARG:Canal 5 Argentina
+    rtmp://c5n.stweb.tv:1935/c5n/live
+    #EXTINF:-1,ARG:Canal 7 Jujuy mms
+    mms://200.43.187.111/canal7
+    #EXTINF:-1,ARG:Canal 79 San Juan
+    rtmp://painel.serveron.com.br:1935/8162/8162
+    #EXTINF:-1,ARG:Canal 9 Paraná
+    http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+    #EXTINF:-1,ARG:Canal 9 Salta
+    http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,ARG:Canal Rural 1 rtsp
+    rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+    #EXTINF:-1,ARG:CANAL RURAL 2 rtsp
+    rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+    #EXTINF:-1,ARG:CANAL RURAL 3 rtsp
+    rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
+    #EXTINF:-1,ARG:ECO TV Tandil
+    rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
+    #EXTINF:-1,ARG:El Trece
+    http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+    #EXTINF:-1,ARG:El Trece HD 720
+    http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+    #EXTINF:-1,ARG:Moreno Vision
+    rtmp://morenovisiontv.noip.me/oflaDemo/live
+    #EXTINF:-1,ARG:ORBE 21
+    http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+    #EXTINF:-1,ARG:Pringles TV CANAL 6
+    http://200.70.58.102:8080/?MSWMExt=online-television.net.asf
+    #EXTINF:-1,ARG:Quiero Musica mms
+    mms://200.42.92.6:1755/qmusica
+    #EXTINF:-1,ARG:Señal Provincial
+    http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+    #EXTINF:-1,ARG:Solo Tango mms
+    mms://stream.tangocity.com.ar/tangocity
+    #EXTINF:-1,ARG:Tele Junin
+    rtmp://65.254.42.234/telejunin/telejunin
+    #EXTINF:-1,ARG:TeLeFe SD HQ
+    http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+    #EXTINF:-1,ARG:Telpin Canal 2 HD 720 Pinamar
+    rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+    #EXTINF:-1,ARG:TV Publica
+    http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+    #EXTINF:-1,Azteca 35 Guatemala
+    http://aztecalive-lh.akamaihd.net/i/1tsbqgpq6_1@66743/master.m3u8
+    #EXTINF:-1,Azteca Honduras
+    http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+    #EXTINF:-1,B ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,BOLIVIA Redadvenir
+    rtmp://streamer1.streamhost.org/salive/GMIalfam
+    #EXTINF:-1,Bolivia:Redadvenir
+    rtmp://streamer1.streamhost.org/salive/GMIalfam
+    #EXTINF:-1,C ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Campus TV Guatemala
+    http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,CANADA:CFCN – EDMONTON bit.do
+    http://bit.do/3C6q
+    #EXTINF:-1,CANADA:CFCN – LETHBRIDGE bit.do
+    http://bit.do/3C7d
+    #EXTINF:-1,CANADA:CFCN – REGINA bit.do
+    http://bit.do/3C6V
+    #EXTINF:-1,CANADA:CFCN – YORKTON bit.do
+    http://bit.do/3C66
+    #EXTINF:-1,CANADA:SENATE LIVE bit.do
+    http://bit.do/3C7k
+    #EXTINF:-1,CANADA:TSC CANADA goo.gl
+    http://goo.gl/mYZDN6
+    #EXTINF:-1,Canal 11 Punta del Este Uruguay
+    http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,Canal 2 Internac. Nicaragua
+    rtmp://162.244.81.181:1935/live//Stream1
+    #EXTINF:-1,Canal 41 Mar del Plata
+    rtmp://painel.serveron.com.br/8172/8172
+    #EXTINF:-1,Canal 6 Honduras
+    http://162.212.176.83:8080/canal6.stream.m3u8
+    #EXTINF:-1,Canal 79 Mar del Plata
+    rtmp://painel.serveron.com.br:1935/8168/8168
+    #EXTINF:-1,Canal 9 Bio Bio
+    http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,Canal 9 Bio Bio HD 720
+    http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,Canal TRO
+    http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
+    #EXTINF:-1,CDN 37 Rep. Dominicana
+    http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+    #EXTINF:-1,Chile - EL PINGUINO TV CANAL 4 PUNTA ARENAS
+    http://streaming.elpinguino.com:1935/live/pinguinotv_360p/HasBahCa.m3u8
+    #EXTINF:-1,Chile - TV SENADO
+    http://senadortmp.janus.cl/senadotv/senado600/HasBahCa.m3u8
+    #EXTINF:-1,Chile - VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+    http://cdn.streamingmedia.cl:1935/live/rtmp.stream/HasBahCa.m3u8
+    #EXTINF:-1,CHILE:Arica TV Canal 12
+    http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+    #EXTINF:-1,CHILE:Aysen TV
+    http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+    #EXTINF:-1,CHILE:Campus TV
+    http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+    #EXTINF:-1,CHILE:Canal 2 San Antonio
+    rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
+    #EXTINF:-1,CHILE:Canal 2 ValleTV
+    http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,CHILE:Canal 5 Linares
+    rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+    #EXTINF:-1,CHILE:Canal del Vino
+    http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,CHILE:Cesfam TV
+    http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+    #EXTINF:-1,CHILE:DCH TV
+    http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,CHILE:La Red HD 720
+    http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
+    #EXTINF:-1,CHILE:MEGA
+    http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
+    #EXTINF:-1,CHILE:MEGA HD 720
+    http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+    #EXTINF:-1,CHILE:SUB TV Santiago mms
+    mmsh://190.196.9.186:8080/subtv
+    #EXTINF:-1,CHILE:TV  Chile
+    http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+    #EXTINF:-1,CHILE:TV 4
+    http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,CHILE:TV Red
+    http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
+    #EXTINF:-1,CHILE:TVN
+    http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8
+    #EXTINF:-1,COL:Canal 12 Valledupar
+    rtmp://panelhdstream.com:1935/8022/8022
+    #EXTINF:-1,COL:Canal Capital
+    http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+    #EXTINF:-1,COL:Canal Tr3ce
+    http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+    #EXTINF:-1,COL:Canal U
+    http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,COL:Caracol
+    http://bcliveuniv-lh.akamaihd.net/i/emision_1@129738/index_300_av-b.m3u8
+    #EXTINF:-1,COL:Color Vision Rep. Dominicana
+    http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+    #EXTINF:-1,COL:Hogar TV
+    http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,COL:Señal
+    http://cdns840stu1010.multistream.net/rtvc2live/amlst:s/playlist_b500000.m3u8
+    #EXTINF:-1,COL:TeleCaribe
+    http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+    #EXTINF:-1,COL:Viviral TV
+    http://xviboraltvstreamx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,COL:Zoom TV
+    http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,CR:27 TV Costa Rica
+    http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+    #EXTINF:-1,CR:Canal 13 Costa Rica
+    rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+    #EXTINF:-1,CR:Canal 42 Costa Rica
+    rtmp://k3.usastreams.com:1935/canal42/canal42
+    #EXTINF:-1,CR:Canal 6 Costa Rica
+    rtmp://k3.usastreams.com:1935/cana6/cana6
+    #EXTINF:-1,CR:Canal 9 Costa Rica
+    rtmp://k3.usastreams.com:1935/canal9/canal9
+    #EXTINF:-1,CR:Colosal TV Costa Rica
+    rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+    #EXTINF:-1,CR:SMO TV Costa Rica
+    rtmp://199.217.118.90:1935/smotv/stream
+    #EXTINF:-1,CR:Tele Uno TV Costa Rica
+    rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+    #EXTINF:-1,CR:XPERTS 33 TV Costa Rica
+    rtmp://k3.usastreams.com:1935/tv33/tv33
+    #EXTINF:-1,D ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Dom:TELEANTILLAS 2 HD
+    http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+    #EXTINF:-1,Dom:Teleantillas Canal 2
+    http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+    #EXTINF:-1,Dom:Telefuturo Canal 23
+    http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+    #EXTINF:-1,Dom:Telesistema Canal 11
+    http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+    #EXTINF:-1,E ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,ECUA:Canal 7 Ecuador TV
+    rtmp://38.96.148.216:1935/live/myStream1?c43
+    #EXTINF:-1,ECUA:Canela TV Ecuador
+    http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+    #EXTINF:-1,ECUA:Digital TV Canal 28 Macas Ecuador
+    http://enhd.co:1935/9208/9208/playlist.m3u8
+    #EXTINF:-1,ECUA:Ecotel Ecuador
+    rtmp://enhd.co:1935/ecoteltv/ecoteltv
+    #EXTINF:-1,ECUA:Ecuador TV Internacional
+    http://38.96.148.216:1935/live/internacional/chunklist_w449343516.m3u8
+    #EXTINF:-1,ECUA:Oromar TV Ecuador
+    rtmp://stream.gcorpvision.com:19356/live/oromartv
+    #EXTINF:-1,ECUA:TC Ecuador
+    http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8
+    #EXTINF:-1,ECUA:TeleCuracao
+    rtmp://cdn8.iviplanet.com/Telecuracao/myStream.sdp
+    #EXTINF:-1,ECUA:Television Nacional de Ecuador
+    http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,ECUA:UCSG TV Ecuador
+    rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+    #EXTINF:-1,ECUA:Upanovision Macas Ecuador
+    rtmp://31.204.128.140/live//master19
+    #EXTINF:-1,F ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,G ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Gotica Music
+    rtmp://149.11.34.6:1935/live/gotica.stream
+    #EXTINF:-1,Guatevision
+    http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8
+    #EXTINF:-1,H ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,HAITI TROPIK TV
+    rtmp://shared.flashwebtown.com/tropik/tropik
+    #EXTINF:-1,HCH Honduras
+    http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+    #EXTINF:-1,Hollywood (portugés)
+    http://noscdn1.connectedviews.com:1935/live/hollywood.stream/livestream.m3u8
+    #EXTINF:-1,Hondured Canal 13 Honduras
+    rtmp://173.236.71.62/hondured/hrtv.sdp
+    #EXTINF:-1,I ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,K ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Kanada - Savoir rtsp
+    rtsp://stream2.canal.qc.ca/enOndes_haut_debit
+    #EXTINF:-1,L ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Latino - C5N noticias
+    rtmp://c5n.stweb.tv:1935/c5n/live_media
+    #EXTINF:-1,Latino - hispantv
+    rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+    #EXTINF:-1,M ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,MegaPix (portugés)
+    rtmp://31.204.128.73/live/master11
+    #EXTINF:-1,MULTIMEDIOS TV
+    http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV
+    #EXTINF:-1,Mundo Fox Ch 34 New York USA
+    http://66.55.92.79:1935/app/ana69s-channel/.m3u8
+    #EXTINF:-1,NOS TV Bonaire
+    rtmp://panchito13.flashmediacast.com:2087/live/livestream
+    #EXTINF:-1,Pan:SERTV 11
+    rtmp://216.224.177.132/live/sertv
+    #EXTINF:-1,Per:AMERICA TV HD
+    http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+    #EXTINF:-1,PERU:America TV
+    http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+    #EXTINF:-1,PERU:Andina TV HD 720
+    http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+    #EXTINF:-1,PERU:Panamericana
+    http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+    #EXTINF:-1,PERU:Sol TV
+    rtmp://live.soltvperu.com/soltv/soltv
+    #EXTINF:-1,PERU:UCV Satelital
+    rtmp://wowzacontrol.net:1935/8050/8050
+    #EXTINF:-1,PERU:Williax
+    rtmp://willax.mediastream.pe/vv_willax/livestream
+    #EXTINF:-1,R ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Relax TV
+    rtmp://www.planeta-online.tv:1936/live/channel_3
+    #EXTINF:-1,RPC Panamá
+    http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+    #EXTINF:-1,S ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,SER TV Panamá
+    rtmp://216.224.177.132/live/sertv
+    #EXTINF:-1,Single TV
+    rtmp://149.11.34.78/live/singletv.stream
+    #EXTINF:-1,T ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,t Alfa TV
+    rtmp://streamer1.streamhost.org/salive/GMIalfam
+    #EXTINF:-1,t CBN en español
+    http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&
+    #EXTINF:-1,t CristoVision
+    http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8
+    #EXTINF:-1,t CTNi
+    http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+    #EXTINF:-1,t Enlace Juvenil
+    http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+    #EXTINF:-1,t ESNE
+    http://198.154.228.82:1935/live/esnetv/playlist.m3u8
+    #EXTINF:-1,t EWTN
+    http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8
+    #EXTINF:-1,t Tele Amiga
+    http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8?MegaIPTVArgentina
+    #EXTINF:-1,t TeleVida
+    http://evo.eltelon.com:443/live/televida/playlist.m3u8
+    #EXTINF:-1,Tele Antillas Rep. Dominicana
+    http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+    #EXTINF:-1,TeleAruba
+    rtmp://201.229.0.51/livepkgr/livestream1
+    #EXTINF:-1,teleasturias
+    rtmp://149.11.34.6/live/teleasturias.stream
+    #EXTINF:-1,TeleCine Pipoca (portugués)
+    rtmp://31.204.128.74/live/master18
+    #EXTINF:-1,Telefuturo 23 Rep. Dominicana
+    http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+    #EXTINF:-1,Telemetro Panamá
+    http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+    #EXTINF:-1,Telemundo Ch 39 Dallas USA
+    rtmp://167.114.159.155/app/chivasss69s-channel
+    #EXTINF:-1,TEN Canal 10 HD 720 Honduras
+    rtmp://hd.worldkast.com:1935/8378/_definst_/mp4:83781
+    #EXTINF:-1,TEN Canal 10 Honduras
+    http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
+    #EXTINF:-1,TiVa HD 720 Puerto Rico
+    http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
+    #EXTINF:-1,TV Rionegrina
+    rtmp://198.50.154.40/live/live15
+    #EXTINF:-1,TVN Panamá
+    http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+    #EXTINF:-1,TVX Canal 23 El Salvador
+    rtmp://panel.elsalvadordigital.com:1935/canal23/canal23
+    #EXTINF:-1,U ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Ultra Cine
+    http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+    #EXTINF:-1,Ultra Cine HD 720
+    http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+    #EXTINF:-1,Ultra Film
+    http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
+    #EXTINF:-1,Ultra Film HD 720
+    http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
+    #EXTINF:-1,V ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,VEN:Canal i Venezuela
+    rtmp://edge.wms28.lorini.net/canal-i/canal-i
+    #EXTINF:-1,VEN:Oasis Television Venezuela
+    rtmp://edge.wms28.lorini.net/oasistv/oasistv
+    #EXTINF:-1,VEN:Promar TV Venezuela
+    http://edge.wms28.lorini.net:1935/promartv/promartv/playlist.m3u8
+    #EXTINF:-1,VEN:Tele Aragua Venezuela
+    http://edge.wms28.lorini.net/telearagua/telearagua1/playlist.m3u8
+    #EXTINF:-1,VEN:TRT Venezuela
+    http://edge.wms28.lorini.net:1935/trttv/trttv/playlist.m3u8
+    #EXTINF:-1,VEN:TVO Canal 23 Venezuela
+    http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:-1,VEN:Vive Venezuela mmsh
+    mmsh://difusion.cantv.net/vhost-covetel_live?MSWMExt=.asf
+    #EXTINF:-1,Venezuela:TeleSur
+    http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+    #EXTINF:-1,Vevo1
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+    #EXTINF:-1,Vevo2
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+    #EXTINF:-1,Vevo3
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+    #EXTINF:-1,Z ***HasBahCa IPTV***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,***HasBahCa IPTV***SPAIN+LATINO***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,A AND E
+    http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+    #EXTINF:-1,A&E
+    http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+    #EXTINF:-1,A&E HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?
+    #EXTINF:-1,AMC
+    http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+    #EXTINF:-1,AMC HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?
+    #EXTINF:-1,Animal Planet
+    http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+    #EXTINF:-1,ANIMAL PLANET
+    http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+    #EXTINF:-1,AXN
+    http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+    #EXTINF:-1,AXN HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?
+    #EXTINF:-1,Az Corazon
+    http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
+    #EXTINF:-1,AZTECA 7
+    http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+    #EXTINF:-1,AZTECA NOTICIAS
+    http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+    #EXTINF:-1,BANDAMAX
+    http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+    #EXTINF:-1,BBC Entertainment
+    http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+    #EXTINF:-1,BOOMERANG
+    http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+    #EXTINF:-1,CANAL 5
+    http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+    #EXTINF:-1,CANAL DE LAS ESTRELLAS
+    http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+    #EXTINF:-1,Canal ONCE
+    http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+    #EXTINF:-1,CARTOON NETWORK
+    http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+    #EXTINF:-1,CASA
+    http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+    #EXTINF:-1,Casa Club
+    http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+    #EXTINF:-1,CBEEBIES
+    http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+    #EXTINF:-1,CINECANAL
+    http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+    #EXTINF:-1,CINECANAL +
+    http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+    #EXTINF:-1,Cinecanal + HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+    #EXTINF:-1,Cinemax
+    http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?
+    #EXTINF:-1,COMEDY CENTRAL
+    http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+    #EXTINF:-1,Comedy Central HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?
+    #EXTINF:-1,D CIVILIZATION
+    http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+    #EXTINF:-1,De Pelicula
+    http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+    #EXTINF:-1,De Pelicula HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?
+    #EXTINF:-1,DISCOVERY
+    http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+    #EXTINF:-1,Discovery Civilization
+    http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+    #EXTINF:-1,DISCOVERY KIDS
+    http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+    #EXTINF:-1,Discovery Science
+    http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+    #EXTINF:-1,Discovery Theater
+    http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+    #EXTINF:-1,Discovery World
+    http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+    #EXTINF:-1,Discovery World HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?
+    #EXTINF:-1,DiscoveryTheater HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?
+    #EXTINF:-1,DISNEY CHANNEL
+    http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+    #EXTINF:-1,DISNEY JR
+    http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+    #EXTINF:-1,DISNEY XD
+    http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+    #EXTINF:-1,Distrito Comedia
+    http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+    #EXTINF:-1,DISTRITO COMEDIA
+    http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+    #EXTINF:-1,E
+    http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+    #EXTINF:-1,E! Entertainment Television
+    http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+    #EXTINF:-1,El Gourmet
+    http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+    #EXTINF:-1,EL TRECE
+    http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?
+    #EXTINF:-1,EL TRECE HD
+    http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?
+    #EXTINF:-1,ESPN
+    http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+    #EXTINF:-1,ESPN HD
+    http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+    #EXTINF:-1,ESPN2
+    http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+    #EXTINF:-1,FILM ZONE HD
+    http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+    #EXTINF:-1,FORO TV
+    http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+    #EXTINF:-1,FOX
+    http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+    #EXTINF:-1,Fox 1
+    http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+    #EXTINF:-1,FOX 1 HD
+    http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+    #EXTINF:-1,Fox 1 HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?
+    #EXTINF:-1,Fox Action
+    http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+    #EXTINF:-1,FOX ACTION HD
+    http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Action HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?
+    #EXTINF:-1,Fox Cinema
+    http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?
+    #EXTINF:-1,FOX CINEMA
+    http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+    #EXTINF:-1,FOX CLASSICS
+    http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Classics
+    http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?
+    #EXTINF:-1,FOX FAMILY
+    http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Family
+    http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+    #EXTINF:-1,FOX LIFE
+    http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Life
+    http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Movies
+    http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+    #EXTINF:-1,FOX MOVIES HD
+    http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Movies HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?
+    #EXTINF:-1,FOX SPORTS
+    http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+    #EXTINF:-1,FOX SPORTS 2
+    http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+    #EXTINF:-1,FX
+    http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+    #EXTINF:-1,FX
+    http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+    #EXTINF:-1,FX HD
+    http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+    #EXTINF:-1,FX HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?
+    #EXTINF:-1,FX México SD 4:3
+    http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+    #EXTINF:-1,Glitz
+    http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+    #EXTINF:-1,GLITZ
+    http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+    #EXTINF:-1,Golden
+    http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+    #EXTINF:-1,GOLDEN EDGE
+    http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+    #EXTINF:-1,GOLDEN HD
+    http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+    #EXTINF:-1,Golden HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?
+    #EXTINF:-1,GOURMET
+    http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+    #EXTINF:-1,History
+    http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+    #EXTINF:-1,HISTORY
+    http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+    #EXTINF:-1,History HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?
+    #EXTINF:-1,Home & Health
+    http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
+    #EXTINF:-1,I.Sat
+    http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
+    #EXTINF:-1,INF
+    http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+    #EXTINF:-1,Lifetime
+    http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+    #EXTINF:-1,LIFETIME
+    http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+    #EXTINF:-1,MTV
+    http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+    #EXTINF:-1,MTV LIVE HD
+    http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+    #EXTINF:-1,NAT GEO
+    http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+    #EXTINF:-1,NAT GEO WILD
+    http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+    #EXTINF:-1,NatGeo
+    http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+    #EXTINF:-1,NatGeo Wild
+    http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+    #EXTINF:-1,NatGeo Wild HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?
+    #EXTINF:-1,NICK
+    http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+    #EXTINF:-1,NICK HD
+    http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+    #EXTINF:-1,NICK JR
+    http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+    #EXTINF:-1,PROYECTO 40
+    http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+    #EXTINF:-1,PROYECTO 40 HD
+    http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+    #EXTINF:-1,Sony
+    http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+    #EXTINF:-1,SONY
+    http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+    #EXTINF:-1,Sony HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?
+    #EXTINF:-1,Space
+    http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+    #EXTINF:-1,SPACE HD
+    http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+    #EXTINF:-1,Space HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?
+    #EXTINF:-1,Studio Universal
+    http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+    #EXTINF:-1,STUDIO UNIVERSAL
+    http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+    #EXTINF:-1,SyFy
+    http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+    #EXTINF:-1,SYFY
+    http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+    #EXTINF:-1,SyFy HQ
+    http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?
+    #EXTINF:-1,TBS
+    http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+    #EXTINF:-1,TBS
+    http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+    #EXTINF:-1,TCM
+    http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+    #EXTINF:-1,TCM
+    http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+    #EXTINF:-1,Teleformula
+    http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+    #EXTINF:-1,TELEHIT HD
+    http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+    #EXTINF:-1,TELENOVELAS
+    http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+    #EXTINF:-1,The Film Zone
+    http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+    #EXTINF:-1,The Film Zone HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?
+    #EXTINF:-1,TIIN
+    http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+    #EXTINF:-1,TLC
+    http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+    #EXTINF:-1,TLC
+    http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+    #EXTINF:-1,TLC HD
+    http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+    #EXTINF:-1,Tlnovelas
+    http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+    #EXTINF:-1,TNT
+    http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+    #EXTINF:-1,TNT
+    http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+    #EXTINF:-1,TNT HD
+    http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+    #EXTINF:-1,TNT HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?
+    #EXTINF:-1,TNT Series
+    http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+    #EXTINF:-1,TNT Series HQ
+    http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?
+    #EXTINF:-1,TOONCAST
+    http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+    #EXTINF:-1,TotalPlay
+    http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8?
+    #EXTINF:-1,TotalPlay HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL1/PROFILE05.m3u8?
+    #EXTINF:-1,TruTV
+    http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+    #EXTINF:-1,TruTV HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?
+    #EXTINF:-1,TVEspañola Internacional
+    http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?
+    #EXTINF:-1,Unicable
+    http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
+    #EXTINF:-1,Unicable HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?
+    #EXTINF:-1,Universal
+    http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+    #EXTINF:-1,UNIVERSAL
+    http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+    #EXTINF:-1,Universal Channel (México)
+    http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+    #EXTINF:-1,UNIVERSAL HD
+    http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+    #EXTINF:-1,Universal HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?
+    #EXTINF:-1,VH1 HD
+    http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+    #EXTINF:-1,Warner
+    http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+    #EXTINF:-1,WARNER HD
+    http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+    #EXTINF:-1,Warner HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?
+    #EXTINF:-1,WOBI
+    http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+    #EXTINF:-1,***HasBahCa IPTV***MEXICO - MEKSİKA***
+    http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+    #EXTINF:-1,Acapulco TV México
+    rtmp://video.hosteris.com/tvacapulco/tvacapulco
+    #EXTINF:-1,Azteca 7 HD 1080 México
+    http://200.76.77.237/LIVE/H01/CANAL7/PROFILE05.m3u8?
+    #EXTINF:-1,Azteca 7 México
+    http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+    #EXTINF:-1,Azteca 7 Monterrey México
+    http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+    #EXTINF:-1,Cadena 3 México
+    http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?
+    #EXTINF:-1,Canal 2 Los Mochis México
+    http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
+    #EXTINF:-1,Canal 2 Obregon México
+    http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+    #EXTINF:-1,Canal 2 XEWTV HD 1080 México
+    http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?
+    #EXTINF:-1,Canal 2 XEWTV México
+    http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+    #EXTINF:-1,Canal 2 XEWTV México
+    http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+    #EXTINF:-1,Canal 4 Foro TV México
+    http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+    #EXTINF:-1,Canal 4 Foro TV México
+    http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+    #EXTINF:-1,Canal 4 Mérida México
+    rtmp://159.16.243.10/live/canal4/canal4
+    #EXTINF:-1,Canal 5 HD 1080 México
+    http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?
+    #EXTINF:-1,Canal 5 México
+    http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+    #EXTINF:-1,Canal 6 Guadalajara Mexico
+    rtmp://200.52.193.57:1935/live/unique/live_2650
+    #EXTINF:-1,Canal 6 Guadalajara México (OFFLINE)
+    rtmp://200.52.193.57:1935/live/unique/live_2650
+    #EXTINF:-1,CanaldelasEstrellas Mex.
+    http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
+    #EXTINF:-1,Capital 21 México
+    http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+    #EXTINF:-1,EDUSAT Canal 21 TeleMexico
+    http://dl-dgtve.puntoti.com.mx:1935/dgtve/canal21dgtve.mp4/playlist.m3u8
+    #EXTINF:-1,Efekto TV México
+    http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+    #EXTINF:-1,Fox Mexico
+    http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+    #EXTINF:-1,Fox Mexico HD 1080
+    http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?
+    #EXTINF:-1,Mexico Travel Channel
+    http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+    #EXTINF:-1,-Mexiquense
+    rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+    #EXTINF:-1,MTV Mexico
+    http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+    #EXTINF:-1,MULTIMEDIOS TV
+    http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+    #EXTINF:-1,Multimedios TV SD 4:3 México
+    http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+    #EXTINF:-1,Nuestra Visión Canal 5 México
+    rtmp://159.16.243.10/live/canal5/canal5
+    #EXTINF:-1,Once TV Internacional México
+    http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+    #EXTINF:-1,Proyecto 40 México
+    http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
+    #EXTINF:-1,Radio y Televisión Mexiquense
+    rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+    #EXTINF:-1,SIPSA TV Cancún México
+    http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+    #EXTINF:-1,Telemar Campeche México
+    http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+    #EXTINF:-1,THITHD
+    http://187.247.255.139/Apple/THITHD.m3u8
+    #EXTINF:-1,TV MAS México
+    rtmp://50.7.98.234/rtv/videortv
+    #EXTINF:-1,TV Mexiquense
+    rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+    #EXTINF:-1,TVMas Mexico
+    rtmp://50.7.98.234/rtv/videortv
+    #EXTINF:-1,UNO TV HD 720 México
+    http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+
