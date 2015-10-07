@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/LISTA15092015_2
 https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/prueba.m3u
 
 https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/iptvcanales.m3u
+
+http://iptv.latino-webtv.com/canales.m3u
+
