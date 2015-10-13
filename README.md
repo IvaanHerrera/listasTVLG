@@ -13,3 +13,12 @@ https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/iptvcanales.m3u
 
 http://iptv.latino-webtv.com/canales.m3u
 
+https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/listaB1.m3u
+
+https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/listaB2.m3u
+
+https://raw.githubusercontent.com/IvaanHerrera/listasTVLG/master/listaB3.m3u
+
+
+Ayuda de:
+https://www.facebook.com/groups/TODOKODI/
